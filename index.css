@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+button{
+    background-color: white;
+    border-radius: 25px;
+    border-color: transparent;
+    border-style: solid;
+}
+
+[another="xyz"]{
+    background-color: blue;
+}
+[abc="Ijk"]{
+    background-color: blueviolet;
+}
+
+[special]{
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 20px;
+    border-width: 5px;
+}
